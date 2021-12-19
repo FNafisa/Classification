@@ -1,0 +1,7 @@
+/.venv
+/data
+/documents
+/draft
+/model
+/models
+*.pickle
